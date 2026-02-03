@@ -8,7 +8,7 @@ const markdown = `
 | BTN002 | 削除 | onClick_delete |
 
 @TextBox
-| 項目ID | 項目名 | 桁数 |
+| 項目ID | 項目名 | うんち |
 |--------|--------|------|
 | TXT001 | ユーザー名 | 50 |
 `;
