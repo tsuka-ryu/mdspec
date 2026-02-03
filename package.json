@@ -1,0 +1,15 @@
+{
+  "name": "markdown-spec-core",
+  "type": "module",
+  "dependencies": {
+    "unified": "^11.0.4",
+    "remark-parse": "^11.0.0",
+    "remark-gfm": "^4.0.0",
+    "unist-util-visit": "^5.0.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "@types/node": "^20.0.0",
+    "@types/mdast": "^4.0.3"
+  }
+}
